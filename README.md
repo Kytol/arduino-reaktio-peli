@@ -1,3 +1,3 @@
 # arduino-reaktio-peli
 
-![Preview](asd.png)
+![Preview](asd.PNG)
